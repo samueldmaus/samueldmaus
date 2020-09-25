@@ -3,7 +3,9 @@
 I'm a full stack developer who enjoys sports and video games in his free time. Also enjoy learning new languages and completing Raspberry Pi projects.
 
 
-**Currently Learning**: ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=C%2B%2B&logoColor=00599C)
+**Currently Learning**:
+<br/>
+![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 
 **Languages**: 
