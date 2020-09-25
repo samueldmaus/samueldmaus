@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I am Sam!
 
+I'm a full stack developer who enjoys sports and video games in his free time. Also enjoy learning new languages and completing Raspberry Pi projects.
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=MySQL)
+
+**Technologies**
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=React&logoColor=61DAFB)
 <!--
 **samueldmaus/samueldmaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
