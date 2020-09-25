@@ -1,4 +1,4 @@
-### Hi there 👋 I am Sam!
+### Hi there 👋 I am Sam! :metal
 
 I'm a full stack developer who enjoys sports and video games in his free time. Also enjoy learning new languages and completing Raspberry Pi projects.
 
