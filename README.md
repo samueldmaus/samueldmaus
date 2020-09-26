@@ -8,13 +8,13 @@ I'm a full stack developer who enjoys sports and video games in his free time. A
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 
-**Languages**: 
+**Languages**:<br/>
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=MySQL)
 
 
-**Technologies**: 
+**Technologies**:<br/>
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React&logoColor=61DAFB)
