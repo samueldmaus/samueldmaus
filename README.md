@@ -20,8 +20,9 @@ I'm a full stack developer who enjoys sports and video games in his free time. I
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React&logoColor=61DAFB)
 ![Passport.js]
 ![Express]
-![Flask]
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=Flask&logoColor=61DAFB)
 ![Psycopg2]
+![Nodemon](https://img.shields.io/badge/-Nodemon-000?style=flat&logo=Nodemon&logoColor=61DAFB)
 
 <!--
 **samueldmaus/samueldmaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
