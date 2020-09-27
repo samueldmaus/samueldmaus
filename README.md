@@ -1,4 +1,4 @@
-![Header](https://pmcvariety.files.wordpress.com/2018/10/spider-man-into-the-spider-verse-e1543416171972.png?w=800)
+![Header](https://cdn.vox-cdn.com/thumbor/5OlwSKvDUYZW5U_f4RooSCcyJy8=/0x0:1387x583/1200x0/filters:focal(0x0:1387x583):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/14137724/Copy_of_05.jpg)
 ### Hi there 👋 Sam here!
 
 I'm a full stack developer who enjoys sports and video games in his free time. I also enjoy learning new languages and completing Raspberry Pi projects.
