@@ -1,4 +1,4 @@
-[![Header](https://pmcvariety.files.wordpress.com/2018/10/spider-man-into-the-spider-verse-e1543416171972.png?w=800)]
+![Header](https://pmcvariety.files.wordpress.com/2018/10/spider-man-into-the-spider-verse-e1543416171972.png?w=800)
 ### Hi there 👋 Sam here!
 
 I'm a full stack developer who enjoys sports and video games in his free time. I also enjoy learning new languages and completing Raspberry Pi projects.
