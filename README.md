@@ -6,8 +6,8 @@ I'm a full stack developer who enjoys sports and video games in his free time. I
 
 **Currently Learning**:
 <br/>
-![Lua](https://img.shields.io/badge/-Lua-000?style=flat&logo=Lua&logoColor=0000ff)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Lua](https://img.shields.io/badge/-Lua-000?style=flat&logo=Lua&logoColor=0000ff)
 
 
 **Languages**:<br/>
