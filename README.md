@@ -11,6 +11,7 @@ I'm a full stack developer who enjoys sports and video games in his free time. I
 
 
 **Languages**:<br/>
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=MySQL)
