@@ -14,10 +14,11 @@ I'm a full stack developer who enjoys sports and video games in his free time. I
 
 **Technologies**:<br/>
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032)
+![Cmake](https://img.shields.io/badge/-Cmake-000?style=flat&logo=cmake&logoColor=F05032)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=flat&logo=jenkins&logoColor=F05032)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=Angular)
+![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=Angular&logoColor=61DAFB)
 ![Passport.js](https://img.shields.io/badge/-Passport.js-000?style=flat&logo=javascript&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=node.js&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=Flask&logoColor=61DAFB)
