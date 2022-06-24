@@ -12,6 +12,7 @@
 
 **Technologies**:<br/>
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032)
+![Helm](https://img.shields.io/badge/-Helm-000?style=flat&logo=helm&logoColor=F05032)
 ![Cmake](https://img.shields.io/badge/-Cmake-000?style=flat&logo=cmake&logoColor=F05032)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=flat&logo=jenkins&logoColor=F05032)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=339933)
