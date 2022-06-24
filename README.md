@@ -7,7 +7,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=Angular)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=MySQL)
 
 
