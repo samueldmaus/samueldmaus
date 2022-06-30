@@ -16,7 +16,7 @@
 ![Helm](https://img.shields.io/badge/-Helm-000?style=flat&logo=helm)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=Kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker)
-![Gradle}(https://img.shields.io/badge/-Gradle-000?style=flat&logo=Gradle)
+![Gradle](https://img.shields.io/badge/-Gradle-000?style=flat&logo=Gradle)
 ![Cmake](https://img.shields.io/badge/-Cmake-000?style=flat&logo=cmake&logoColor=F05032)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=flat&logo=jenkins&logoColor=F05032)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=339933)
